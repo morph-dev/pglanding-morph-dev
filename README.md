@@ -9,14 +9,18 @@ I work as a researcher at the prototyping team at the Ethereum Foundation.
 - EthResearch: [morph-dev](https://ethresear.ch/u/morph-dev)
 - X / Twitter: [MorphNetrunner](https://x.com/MorphNetrunner)
 
-## Focus
+## Work Focus
 
 - **Execution Layer Research**
 - **Consensus Layer Research**
 
 ### Previous Work
 
-- **Portal Network**
+- **Portal Network** (Jan 2024 - Jul 2025)
+
+## Prototyping
+
+- [EIP-7782 - 6 second slots](https://notes.ethereum.org/@miloss/Prototyping_EIP-7782)
 
 ## Blog Posts
 
