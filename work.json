@@ -4,27 +4,27 @@
         "description": "Building a devnet prototype for 6-second slot research",
         "label": "EL",
         "url": "https://notes.ethereum.org/@miloss/Prototyping_EIP-7782",
-        "date:": "2025-09-01"
+        "date": "2025-09-01"
     },
     {
         "title": "Portal Network & History Expiry",
         "description": "Proposal for a spec for new History subnetwork over Portal protocol for the purpose of History Expiry",
         "label": "EL",
         "url": "https://ethresear.ch/t/using-portal-network-protocol-for-history-expiry/22658",
-        "date:": "2025-06-22"
+        "date": "2025-06-22"
     },
     {
         "title": "Portal Network & Verkle",
         "description": "Research on how Verkle state trie can be distributed over Portal Network",
         "label": "EL",
         "url": "https://ethresear.ch/t/portal-network-verkle/19339",
-        "date:": "2024-04-19"
+        "date": "2024-04-19"
     },
     {
         "title": "Distributing Ethereum State over Portal Network",
         "description": "Research on how to distribute state trie over Portal Network for quicker retrieval of leaf nodes",
         "label": "EL",
         "url": "https://ethresear.ch/t/distributing-ethereum-state-over-portal-network/17882",
-        "date:": "2023-12-17"
+        "date": "2023-12-17"
     }
 ]
